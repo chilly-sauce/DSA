@@ -1,0 +1,4 @@
+Browser Navigation System Using Stack (using C)
+This project involves developing a browser navigation system that simulates webpage visits.
+• Use a stack to manage “Back” and “Forward” operations.
+• Implement functionality to visit new pages and navigate history
