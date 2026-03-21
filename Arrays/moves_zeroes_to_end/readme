@@ -1,0 +1,4 @@
+approach 1 is straightforward upproach with tc n*n and sc=1
+approach 2 is using double pointers with tc =n but it changes the order 
+approach 3 is enhanced version of app2 with double pointer but without changing order
+approach 4 is abrute force method with tc =n and sc=n
