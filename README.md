@@ -1,2 +1,2 @@
 # DSA
-nothing much for practise
+dsa problems with approach comments in C++
