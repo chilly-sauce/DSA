@@ -1,0 +1,11 @@
+approach 1 is using sum method hasing tc of O(n)
+(sum of n) -(sum of numbers present)
+
+approach 2 is method by searching each number it has tc of n^2
+
+approach 3 is by hash array then we search index having value zero thats our missingh number
+it has tc of n and sc of n
+
+approach 4 is using xor operator it has tc of n 
+
+approach 1 and 4 are the best methods 2nd being the brute force 
