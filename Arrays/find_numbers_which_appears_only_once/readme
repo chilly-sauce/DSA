@@ -1,0 +1,4 @@
+app1 is itterating through whole array and finding having tc of of n^2 and sc of 1
+app2 is using hash table  having tc of n and sc of largest (not good for negatives
+app3  is to be used only when if all other elements occurs exactly twice its uding xor operator
+it has tc of n and sc of 1
