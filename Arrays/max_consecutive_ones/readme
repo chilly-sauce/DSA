@@ -1,0 +1,5 @@
+using two variable max and current initializing at 0,
+current used to find the no. of consecutive ones 
+that are in current set 
+if current>max we store current in max 
+so max has the value of max consecutive ones
