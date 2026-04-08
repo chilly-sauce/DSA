@@ -1,0 +1,6 @@
+app1 - is using maths it has tc of n^2 and sc of 1
+app2- is using hash map tc is n+largest and sc is largest good if range of no. is not large
+app3- its using count for each element it searches for element having freq more than size/2
+  tc is of n^2 and sc of 1
+app4- its the optimal soln using moorse voting algorithm the number having freq of n/2 will not be 
+eleminated and the answer will be true only if there exist a majority
